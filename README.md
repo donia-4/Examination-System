@@ -36,4 +36,3 @@
 
 ---
 
-Feel free to copy and paste this content directly into your GitHub README.md file! Let me know if you'd like any further adjustments.
